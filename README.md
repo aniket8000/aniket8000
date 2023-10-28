@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React , Java script , Django , Figma**
+- 💬 Ask me about **HTML , CSS , Python , Wordpress , After Effect , React , Java script , Django , Figma , C++**
 
 - 📫 How to reach me **aniketkumarvn@gmail.com**
 
