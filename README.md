@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket8000&label=Profile%20views&color=0e75b6&style=flat" alt="aniket8000" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** & Intern in a 5G Infotech
 
 - 💬 Ask me about **HTML , CSS , Python , Wordpress , After Effect , React , Java script , Django , Figma , C++**
 
